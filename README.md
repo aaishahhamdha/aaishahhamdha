@@ -2,8 +2,9 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aaishahhamdha.aaishahhamdha" />
 </div>
+
 <div align="center">
-  <img height="150" src="[file:///Users/aaisham/Downloads/_6b7d13fd-e7c0-47e5-b58d-b303bb32fc9d.jpg](https://github.com/aaishahhamdha/aaishahhamdha/blob/main/_6b7d13fd-e7c0-47e5-b58d-b303bb32fc9d.jpg)" />
+  <img height="150" src="https://github.com/aaishahhamdha/aaishahhamdha/blob/main/_6b7d13fd-e7c0-47e5-b58d-b303bb32fc9d.jpg" alt="Profile Image" />
 </div>
 
 <div align="center">
@@ -13,8 +14,6 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
 </div>
-
-
 
 <h1 align="center">Hi there, I'm Aaishah Hamdha! 👋</h1>
 
@@ -62,9 +61,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaishahhamdha&layout=compact&theme=radical" alt="most used languages" />
 </div>
 </div>
-### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaishah-hamdha/)
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://medium.com/@aaishamdha)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaishahhamdha)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/aishahhamdha)
+<h3 align="left">🔗 Connect with Me</h3>
+
+<div align="left">
+  <a href="https://linkedin.com/in/aaishah-hamdha/" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="https://medium.com/@aaishamdha" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rss/rss-original.svg" height="40" alt="Blog logo" />
+  </a>
+  <a href="https://github.com/aaishahhamdha" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+  </a>
+  <a href="https://hackerrank.com/profile/aishahhamdha" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="40" alt="HackerRank logo" />
+  </a>
+</div>
+
