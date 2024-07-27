@@ -1,7 +1,6 @@
 <div style="max-width: 1200px; margin: 0 auto; padding: 20px; font-family: Arial, sans-serif;">
   <!-- Introduction Section -->
   <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-    <div style="flex: 1; padding-right: 20px;">
       <h1>Hi there, I'm Aaishah Hamdha! 👋</h1>
       <h3>👩‍💻 About Me</h3>
       <p>
@@ -10,10 +9,9 @@
         - 📚 All of my projects are available at <a href="https://github.com/aaishahhamdha?tab=repositories" target="_blank">GitHub</a>.<br>
         - ⚡ In my free time, I enjoy writing articles to share my learning journey and tips on web development.
       </p>
-    </div>
-    <div style="flex: 1; display: flex; justify-content: flex-end;">
-      <img height="400" src="https://github.com/aaishahhamdha/aaishahhamdha/blob/main/_6b7d13fd-e7c0-47e5-b58d-b303bb32fc9d.jpg" alt="Profile Image" />
-    </div>
+    <p>
+      <img height="200" src="https://github.com/aaishahhamdha/aaishahhamdha/blob/main/_6b7d13fd-e7c0-47e5-b58d-b303bb32fc9d.jpg" alt="Profile Image" />
+    </p>
   </div>
   
   <!-- Technologies & Tools Section -->
@@ -46,11 +44,12 @@
   
   <!-- Stats and Languages Section -->
   <div style="margin-top: 40px;">
-    <p style=" padding-right: 20px;">
-      <h3>🔥 My Stats</h3><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaishahhamdha&" alt="aaishahhamdha" />
-      <h3>🗣 Most Used Languages</h3><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaishahhamdha&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
-    </p>
+    <span>
+      <h3>🔥 My Stats</h3><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaishahhamdha&" alt="aaishahhamdha" /></span>
+      <span> <h3>🗣 Most Used Languages</h3><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaishahhamdha&show_icons=true&locale=en&layout=compact" alt="Most used languages" /></span>
   </div>
+
+
   
   <!-- Connect with Me Section -->
   <div style="margin-top: 40px;">
