@@ -45,15 +45,11 @@
   </div>
   
   <!-- Stats and Languages Section -->
-  <div style="display: flex; justify-content: space-between; margin-top: 40px;">
-    <div style="flex: 1; padding-right: 20px;">
-      <h3>🔥 My Stats</h3>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaishahhamdha&" alt="aaishahhamdha" /></p>
-    </div>
-    <div style="flex: 1;">
-      <h3>🗣 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaishahhamdha&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
-    </div>
+  <div style="margin-top: 40px;">
+    <p style=" padding-right: 20px;">
+      <h3>🔥 My Stats</h3><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaishahhamdha&" alt="aaishahhamdha" />
+      <h3>🗣 Most Used Languages</h3><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaishahhamdha&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
+    </p>
   </div>
   
   <!-- Connect with Me Section -->
