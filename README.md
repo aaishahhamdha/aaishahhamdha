@@ -1,45 +1,73 @@
-### Hi there, I'm Aaishah Hamdha! 👋
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
+</div>
 
-Welcome to my GitHub profile! I'm a passionate web developer who loves to create dynamic and interactive web applications. Here's a bit about me and what I do:
+###
 
-- 🌐 I recently built my first portfolio website using React.
-- 💡 I wrote a blog post on dynamically adding elements in React using mapping and chunking arrays.
-- 🔭 I’m currently working on expanding my portfolio with more projects.
-- 🌱 I’m always learning and exploring new technologies and frameworks.
-- 📝 I regularly write articles to share my learning journey and tips on web development.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Blog&logo=rss&label=&color=FFA500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="blog logo" />
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+</div>
 
-### 🛠️ Technologies & Tools
+###
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aaishahhamdha.aaishahhamdha" />
+</div>
 
-### 📈 GitHub Stats
+###
 
-![Aaishah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaishahhamdha&show_icons=true&theme=radical)
+<h1 align="center">Hi there, I'm Aaishah Hamdha! 👋</h1>
 
-### 🏆 Top Languages
+###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaishahhamdha&layout=compact&theme=radical)
+<h3 align="left">👩‍💻 About Me</h3>
 
-### 🔗 Connect with Me
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaishah-hamdha/)
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://medium.com/@aaishamdha)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaishahhamdha)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/aishahhamdha)
+<p align="left">I'm a passionate web developer with a love for creating dynamic web applications.<br><br>- 🔭 I’m currently working on expanding my portfolio with more projects.<br>- 📚 I'm always learning and exploring new technologies and frameworks.<br>- ⚡ In my free time, I enjoy writing articles to share my learning journey and tips on web development.</p>
 
-### 📂 Projects
-<!--
-** To add your projects dynamically, you can use GitHub Actions or other APIs to fetch and display your projects. This is a placeholder for a dynamic project section. 
--->
-- [Project 1](https://github.com/aaishahhamdha/portfolio)
-- [Project 2](https://github.com/aaishahhamdha/SW-project-final-code)
-- [Project 3](https://github.com/aaishahhamdha/Level1--Microcontroller-based-application-devolopmemt-project)
+###
 
+<h3 align="left">🛠 Technologies & Tools</h3>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo" />
+</div>
+
+###
+
+<h3 align="left">🔥 My Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaishahhamdha&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+</div>
+
+###
+
+<h3 align="left">🗣 Most Used Languages</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaishahhamdha&layout=compact&theme=radical" alt="most used languages" />
+</div>
