@@ -26,37 +26,38 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-###
-
 <p align="left">I'm a passionate web developer with a love for creating dynamic web applications.<br><br>- 🔭 I’m currently working on expanding my portfolio with more projects.<br>- 📚 I'm always learning and exploring new technologies and frameworks.<br>- ⚡ In my free time, I enjoy writing articles to share my learning journey and tips on web development.</p>
 
 ###
 
 <h3 align="left">🛠 Technologies & Tools</h3>
 
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo" />
+  <h4>Programming Languages</h4>
+  <p>Java, C, Python, JavaScript</p>
+  
+  <h4>Web Development</h4>
+  <p>React, HTML, CSS, Django, JavaScript, Node.js</p>
+  
+  <h4>Version Control</h4>
+  <p>Git, GitHub</p>
+  
+  <h4>IDE</h4>
+  <p>VS Code, IntelliJ IDEA</p>
+  
+  <h4>Database</h4>
+  <p>MySQL, SQLite, MongoDB, MsSQL, MySQL Workbench, DBBrowser</p>
+  
+  <h4>Testing</h4>
+  <p>Postman, Insomnia</p>
+  
+  <h4>Design Tools</h4>
+  <p>Figma, GIMP, Photoshop, Canva, Blender, SketchUp</p>
 </div>
 
 ###
 
 <h3 align="left">🔥 My Stats</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaishahhamdha&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
@@ -66,12 +67,9 @@
 
 <h3 align="left">🗣 Most Used Languages</h3>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaishahhamdha&layout=compact&theme=radical" alt="most used languages" />
 </div>
-
 
 ### 🔗 Connect with Me
 
@@ -79,6 +77,3 @@
 [![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://medium.com/@aaishamdha)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaishahhamdha)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/aishahhamdha)
-
-
-
