@@ -1,21 +1,39 @@
 <div style="max-width: 1200px; margin: 0 auto; padding: 20px; font-family: Arial, sans-serif;">
   <!-- Introduction Section -->
-  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-      <h1>Hi there, I'm Aaishah Hamdha! 👋</h1>
-      <h3>👩‍💻 About Me</h3>
-      <p>
-        I'm a passionate web developer with a love for creating dynamic web applications.<br><br>
-        - 🔭 I’m currently working on expanding my portfolio with more projects.<br>
-        - 📚 All of my projects are available at <a href="https://github.com/aaishahhamdha?tab=repositories" target="_blank">GitHub</a>.<br>
-        - ⚡ In my free time, I enjoy writing articles to share my learning journey and tips on web development.
-      </p>
-    <p>
-      <img height="200" src="https://github.com/aaishahhamdha/aaishahhamdha/blob/main/_6b7d13fd-e7c0-47e5-b58d-b303bb32fc9d.jpg" alt="Profile Image" />
-    </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaishahhamdha&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
+  <div style="margin-top: 20px;">
+    <h1 align="center">Hello, I'm Aaishah Hamdha! ✨</h1>
+    <h3 align="center">👩‍💻 Explorer | Turning Ideas into Reality</h3>
+    <table style="width: 100%;">
+      <tr>
+        <td style="width: 30%; padding: 10px;">
+          <img height="251" src="https://github.com/aaishahhamdha/aaishahhamdha/blob/main/_6b7d13fd-e7c0-47e5-b58d-b303bb32fc9d.jpg" alt="Profile Image" />
+        </td>
+        <td style="width: 70%; padding: 10px;">
+          <p>🌟 IT Undergraduate focused on expanding my portfolio.</p>
+          <p>💻 Explore My Work: Check out my <a href="https://github.com/aaishahhamdha?tab=repositories" target="_blank">GitHub</a> for my diverse projects.</p>
+          <p>📫 Reach out at: <a href="mailto:aaishahhamdha@gmail.com">aaishahhamdha@gmail.com</a> for collaboration or inquiries.</p>
+          <p>✨ Interests: Creative problem solving.</p>
+          <h3>🔗 Connect with Me</h3>
+          <p>
+            <a href="https://linkedin.com/in/aaishah-hamdha/" target="blank">
+              <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+            </a>
+            <a href="https://medium.com/@aaishamdha" target="blank">
+              <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+            </a>
+            <a href="https://hackerrank.com/profile/aishahhamdha" target="blank">
+              <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+            </a>
+          </p>
+        </td>
+      </tr>
+    </table>
   </div>
   
   <!-- Technologies & Tools Section -->
-  <div style="margin-top: 40px;">
+  <div style="margin-top: 70px; margin-bottom: 70px">
     <h3>🛠 Technologies & Tools</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java logo" />
@@ -44,26 +62,17 @@
   
   <!-- Stats and Languages Section -->
   <div style="margin-top: 40px;">
-    <span>
-      <h3>🔥 My Stats</h3><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaishahhamdha&" alt="aaishahhamdha" /></span>
-      <span> <h3>🗣 Most Used Languages</h3><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaishahhamdha&show_icons=true&locale=en&layout=compact" alt="Most used languages" /></span>
-  </div>
-
-
-  
-  <!-- Connect with Me Section -->
-  <div style="margin-top: 40px;">
-    <h3>🔗 Connect with Me</h3>
-    <p>
-      <a href="https://linkedin.com/in/aaishah-hamdha/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-      </a>
-      <a href="https://medium.com/@aaishamdha" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-      </a>
-      <a href="https://hackerrank.com/profile/aishahhamdha" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-      </a>
-    </p>
+    <table style="width: 100%;">
+      <tr>
+        <td style="width: 50%; vertical-align: top; padding: 10px;">
+          <h3>🔥 My Stats</h3>
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaishahhamdha&" alt="aaishahhamdha" />
+        </td>
+        <td style="width: 50%; vertical-align: top; padding: 10px;">
+          <h3>🗣 Most Used Languages</h3>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaishahhamdha&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
+        </td>
+      </tr>
+    </table>
   </div>
 </div>
