@@ -33,3 +33,13 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves to create
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaishahhamdha)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/aishahhamdha)
 
+### 📂 Projects
+<!--
+** To add your projects dynamically, you can use GitHub Actions or other APIs to fetch and display your projects. This is a placeholder for a dynamic project section. 
+-->
+- [Project 1](https://github.com/aaishahhamdha/portfolio)
+- [Project 2](https://github.com/aaishahhamdha/SW-project-final-code)
+- [Project 3](https://github.com/aaishahhamdha/Level1--Microcontroller-based-application-devolopmemt-project)
+
+
+
