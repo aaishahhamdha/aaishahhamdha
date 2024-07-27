@@ -7,9 +7,6 @@
     <h3 align="center">👩‍💻 Explorer | Turning Ideas into Reality</h3>
     <table style="width: 100%;">
       <tr>
-        <td style="width: 30%; padding: 10px;">
-          <img height="251" src="https://github.com/aaishahhamdha/aaishahhamdha/blob/main/_6b7d13fd-e7c0-47e5-b58d-b303bb32fc9d.jpg" alt="Profile Image" />
-        </td>
         <td style="width: 70%; padding: 10px;">
           <p>🌟 IT Undergraduate focused on expanding my portfolio.</p>
           <p>💻 Explore My Work: Check out my <a href="https://github.com/aaishahhamdha?tab=repositories" target="_blank">GitHub</a> for my diverse projects.</p>
@@ -27,6 +24,9 @@
               <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
             </a>
           </p>
+        </td>
+         <td style="width: 30%; padding: 10px;">
+          <img height="300" src="https://github.com/aaishahhamdha/aaishahhamdha/blob/main/_6b7d13fd-e7c0-47e5-b58d-b303bb32fc9d.jpg" alt="Profile Image" />
         </td>
       </tr>
     </table>
