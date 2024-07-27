@@ -61,15 +61,13 @@
 
 <div align="left" style="display: flex; gap: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaishahhamdha&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaishahhamdha&layout=compact&theme=radical" alt="most used languages" />
-</div>
 
 <h3 align="left">🗣 Most Used Languages</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaishahhamdha&layout=compact&theme=radical" alt="most used languages" />
 </div>
-
+</div>
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaishah-hamdha/)
