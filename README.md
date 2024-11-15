@@ -66,7 +66,7 @@
     <table style="width: 100%;">
       <tr>
          <td style="width: 50%; vertical-align: top; padding: 10px;">
-        <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">    <img  alt="aaishahhamdha's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/aaishahhamdha?cardType=level-alternate&theme=react&preferLogin=false" />  </a>
+          <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">    <img  alt="aaishahhamdha's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/aaishahhamdha?cardType=level&preferLogin=false" />  </a>
    </td>
         <td style="width: 50%; vertical-align: top; padding: 10px;">
           <h3>🗣 Most Used Languages</h3>
