@@ -60,17 +60,23 @@
     </div>
   </div>
   
+  
   <!-- Stats and Languages Section -->
   <div style="margin-top: 40px;">
     <table style="width: 100%;">
       <tr>
-        <td style="width: 50%; vertical-align: top; padding: 10px;">
-          <h3>🔥 My Stats</h3>
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaishahhamdha&" alt="aaishahhamdha" />
-        </td>
+         <td style="width: 50%; vertical-align: top; padding: 10px;">
+        <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=react&preferLogin=false">    <img  alt="aaishahhamdha's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/aaishahhamdha?cardType=level-alternate&theme=react&preferLogin=false" />  </a>
+   </td>
         <td style="width: 50%; vertical-align: top; padding: 10px;">
           <h3>🗣 Most Used Languages</h3>
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaishahhamdha&show_icons=true&locale=en&layout=compact" alt="Most used languages" />
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 100%; vertical-align: top; padding: 10px;">
+          <h3>🔥 My Stats</h3>
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaishahhamdha&" alt="aaishahhamdha" />
         </td>
       </tr>
     </table>
