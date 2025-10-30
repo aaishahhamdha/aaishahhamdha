@@ -20,8 +20,6 @@
 
 📫 **Reach out at:** [aaishahhamdha@gmail.com](mailto:aaishahhamdha@gmail.com) for collaboration or inquiries.
 
-✨ **Interests:** Creative problem solving.
-
 ### 🔗 Connect with Me
 
 <p>
