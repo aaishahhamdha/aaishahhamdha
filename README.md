@@ -49,11 +49,6 @@
 
 <table>
 <tr>
-<td width="60%">
-
-![aaishahhamdha's Stats](https://github-readme-stats.vercel.app/api?username=aaishahhamdha&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-</td>
 <td width="40%">
 
 
